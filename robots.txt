@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://emaruubo.github.io/BEM/sitemap_index.txt
+Sitemap: https://emaruubo.github.io/gqT/sitemap_index.txt
+Sitemap: https://emaruubo.github.io/vZA/sitemap_index.txt
+Sitemap: https://emaruubo.github.io/wHW/sitemap_index.txt
